@@ -11,5 +11,6 @@
 > - The heap must be implemented in Java.
 > - The heap must be performant.
 > - You must use a more descriptive variable name than x in your implementation.
+
 > Think carefully about how you implement each method, and manage the underlying data. Performance is critical, so keep cycles and memory usage to a minimum. Be sure to test your heap with very small and very large values of x. As always, keep a weather eye out for sneaky edge cases.
 
